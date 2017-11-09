@@ -1,0 +1,44 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 11-Apr-2017, 09:19:43
+    Author     : Jithin
+*/
+
+.root {
+    -fx-background-color: #7B85AD;
+    -fx-padding: 10;
+}
+
+.button {
+    -fx-background-color: #172457;
+    -fx-text-fill: white;
+    -fx-font-family: "Raleway";
+}
+
+.label {
+    
+    -fx-font-weight: normal;
+    -fx-text-fill: white;
+    -fx-font-family: "Raleway";
+}
+.combo-box .list-cell{
+    -fx-background-fills: #172457;
+    -fx-background-color: #172457;
+    -fx-text-fill: white;
+    -fx-text-alignment:center;
+    -fx-font-family: "Raleway";
+}
+.combo-box {
+    -fx-background-fills: #172457;
+    -fx-background-color: #172457;
+    
+}
+
+.text-field{
+    -fx-background-color: #515D91;
+    -fx-text-fill: white;
+}
